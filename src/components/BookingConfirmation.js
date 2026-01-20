@@ -1,5 +1,5 @@
 import React from 'react';
-import { CheckCircle, MapPin, Navigation, DollarSign, User, Star, Phone, Car } from 'lucide-react';
+import { CheckCircle, MapPin, Navigation, User, Star, Phone, Car } from 'lucide-react';
 const BookingConfirmation = ({ booking, onTrackRide, onNewRide }) => {
   return (
     <div className="space-y-6">
